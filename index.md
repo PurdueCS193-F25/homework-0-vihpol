@@ -7,8 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Favorite Things about CS 193
 ```
 - It'll teach me about GitHub, which is very important  to learn
--  It has fun lectures
--  It's pretty chill
+- It has fun lectures
 - Instructors are nice
 ```
 
